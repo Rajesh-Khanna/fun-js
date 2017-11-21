@@ -1,0 +1,11 @@
+.dot{
+	background-color: red;
+	-webkit-backface-visibility: visible; /* Chrome, Safari, Opera */
+    backface-visibility: visible;
+	width: 10px;
+	height: 20px;
+}
+
+.vector{
+	
+}
